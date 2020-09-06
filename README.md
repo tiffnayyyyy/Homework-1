@@ -1,5 +1,5 @@
 # Business Analytics 111a, Fall '20 – Homework 1
-## Due 9 AM, Friday September 13, 2020
+## Due 9 AM, Sunday September 13, 2020
 
 In this assignment you will improve your R coding skills. You will be asked to
 write short code snippets or code-chunks in R. You will be graded both on your
