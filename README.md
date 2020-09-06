@@ -17,6 +17,13 @@ does within 30 seconds of reading it.
 As discussed in class, this is aided by clear comments, good variable names,
 proper indentation, and short lines.
 
+## Submission Directions
+You should submit an R file onto Latte by 9 AM EST on Friday, September 13th. The file should be named as `FirstnameLastname_Homework1.R`. So for instance, it would be named `MitchellDodell_Homework1.R` if the TA was submitting it.
+
+> **Extra Credit Opportunity (+5 points)**: Submit your homework in a **public** Github repository. You should submit your R file, but also a PDF which contains just a link to your repository.
+
+> In order to do this, you should click the 'Fork' button on the top right of this Github repository. This will create a copy of it onto your account. You should then clone the one on your account by clicking the 'Code' button after you are redirected.
+
 ### Coding in R
 1. Run the following command:
    ```
