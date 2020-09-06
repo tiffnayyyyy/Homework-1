@@ -27,11 +27,11 @@ You should submit an R file onto Latte by 9 AM EST on Friday, September 13th. Th
 ### Coding in R
 1. Run the following command:
    ```
-   Vector_of_random_numbers = runif(N=1000, min =-10, max=10)
+   vector_of_random_numbers = runif(n=1000, min =-10, max=10)
    ```
    a. What does the output do?
 
-   b. Compute the mean of `Vector_of_random_numbers`.
+   b. Compute the mean of `vector_of_random_numbers`.
 
 1. Code a script that takes one input from the user (name and age) and displays the values.
    ```
